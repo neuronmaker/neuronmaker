@@ -1,3 +1,3 @@
 I am Dalton, interested in most things related to electronics.
 
-My GnuPG key fingerprint is: AB13 23D6 F9D7 4D8B E13B DAB3 CD1F 54A9 472F 03B9
+My GnuPG key fingerprint is: 167E 19AC B8E5 38F3 2FD2  2766 81C9 678A 0987 8230

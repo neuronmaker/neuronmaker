@@ -5,3 +5,4 @@ I will use the above key for most things. If in doubt use the above key to commu
 
 I will keep things like my OpenPGP public keys and other profile worthy things here as my current main place to store those things.
 
+If for any reason you reach out to me via email or any other realtively unsecure channel I kindly request you do so using OpenPGP to protect the communication and keep the body of the messages readable only to the intended recipants (us in this case).

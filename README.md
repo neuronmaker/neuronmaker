@@ -5,4 +5,4 @@ I will use the above key for most things. If in doubt use the above key to commu
 
 I will keep things like my OpenPGP public keys and other profile worthy things here as my current main place to store those things.
 
-If for any reason you reach out to me via email or any other realtively unsecure channel I kindly request you do so using OpenPGP to protect the communication and keep the body of the messages readable only to the intended recipants (us in this case).
+In the event you wish to reach out to me, I usually prefer encrypted messaging formats such as OpenPGP or Signal. I am unwilling to publish my phone number since I already recieve 2-3 scam calls per day, so Signal would be hard for me to share outside circles of people who walready know me. OpenPGP is farily secure and I make a constant effort to keep my public key available. My email address is already public knowledge thanks to publishing apps on teh Play Store (your email address is one of the thinkgs Google places on the store page), hence I am willing to publish my email address in my public key.

@@ -14,5 +14,5 @@ In the event you wish to reach out to me, I usually prefer encrypted messaging f
 or Signal. I am hesitant to publish my phone number since I already recieve 2-3 scam calls per day, so
 Signal would be hard for me to share outside circles of people who walready know me. OpenPGP is fairly
 secure and I make a constant effort to keep my public key available. My email address is already public
-knowledge thanks to publishing apps on teh Play Store (your email address is one of the thinkgs Google
+knowledge thanks to publishing apps on the Play Store (your email address is one of the thinkgs Google
 places on the store page), hence I am willing to publish my email address in my public key.

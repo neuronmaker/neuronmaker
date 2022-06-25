@@ -4,7 +4,7 @@ My main OpenPGP key fingerprint is: 1F32 5206 DE34 CFCF 0022  D045 48A7 3B8C 892
 I will use the above key for most things. If in doubt use the above key to communicate with me.  
 I also have an alternate OpenPGP key using the RSA algorithm keys if your software cannot use Ed25519 keys.
 My RSA 4096 alternate PGP key fingerprint is: 167E 19AC B8E5 38F3 2FD2  2766 81C9 678A 0987 8230    
-Both keys are equally valid, but I prefer the use of my Ed25519 key for effencicy reasons,
+Both keys are equally valid, but I prefer the use of my Ed25519 key for efficiency reasons,
 I will use my RSA key if requested though.
 
 I will keep things like my OpenPGP public keys and other profile worthy things here as my current main

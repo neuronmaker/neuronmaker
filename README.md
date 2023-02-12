@@ -9,11 +9,12 @@ Contact
 -------
 
 I will not publish my phone number for privacy and security reasons.
-Phone numbers are not as securely protected as I would prefer. I have
-published my email address and py OpenPGP keys. Email is not a secure or
-private communication system, but OpenPGP will give *pretty good privacy*
-for the content of an email message. I generally prefer to communicate
-over encrypted channels whenever possible. Encryption is a wonderful tool.
+Phone numbers are not very secure, and communications using phone numbers
+are not private at all. I have published my email address and my OpenPGP 
+keys. Email is not a secure or private communication system, but OpenPGP 
+will give *pretty good privacy* for the content of an email message. I 
+generally prefer to communicate over encrypted channels whenever possible.
+Encryption is a wonderful tool.
 
 I use two OpenPGP keys, one is based on ```RSA``` and the other on
 ```Ed25519```. I prefer to use the ```Ed25519``` key, but maintain the

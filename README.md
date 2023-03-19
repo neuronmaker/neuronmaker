@@ -10,16 +10,16 @@ Contact
 
 I will not publish my phone number for privacy and security reasons.
 Phone numbers are not very secure, and communications using phone numbers
-are not private at all. I have published my email address and my OpenPGP 
-keys. Email is not a secure or private communication system, but OpenPGP 
-will give *pretty good privacy* for the content of an email message. I 
+are not private at all. I have published my email address and my OpenPGP
+keys. Email is not a secure or private communication system, but OpenPGP
+will give *pretty good privacy* for the content of an email message. I
 generally prefer to communicate over encrypted channels whenever possible.
 Encryption is a wonderful tool.
 
 I use two OpenPGP keys, one is based on ```RSA``` and the other on
-```Ed25519```. I prefer to use the ```Ed25519``` key, but maintain the
-second ```RSA``` key for communicating with people using older software
-which cannot use ```Ed25519``` keys. 
+```Ed25519```. I strongly prefer to use the ```Ed25519``` key, but I
+maintain the second ```RSA``` key for communicating with people using
+older software which cannot use ```Ed25519``` keys.
 
 Below are the fingerprints for both keys.
 
@@ -34,4 +34,4 @@ Below are the fingerprints for both keys.
 I will reply using whichever key you sent me the messsage with.
 
 Both keys are available on this repository, and also available on other
-platforms like Keybase and some Web Key Directory servers.
+platforms like Keybase and some Web Key Directory (WKD) servers.

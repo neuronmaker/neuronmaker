@@ -1,16 +1,14 @@
-Who I am
-========
+# Who I am
 
-I am Dalton, a student who enjoys programming. I also advocate for access
-to security and privacy tools. We live in a unique time in which almost
-anyone can use tools that were recently considered mere science fiction.
+I am Dalton, a programmer focusing on readable and resource efficient code. I code on multiple platforms, but I particularly enjoy working with Linux servers. With the advent of machine learning, the value of efficient, parallelized, and maintainable code is indescribable. The performance and cost benefits from writing efficient code can be like gaining several years worth of hardware advances, just from more efficient code.
+
+I also advocate for access and use of privacy and security related tools. We live in a unique point in history where anyone can use tools that were once considered science fiction. Today, the lowest tier smartphone can use strong cryptography and protect the most precious information better and stronger than the strongest of vaults ever could.
 
 ## Contact
 
 I will not publish my phone number for privacy and security reasons.
-Phone numbers are not very secure, and communications using phone numbers
-are not private at all. I have published my email address and my OpenPGP
-keys. Email is also not a secure or private communication system, but
+Phone numbers are not secure, nor are text messages or phone calls private. I have published my email address and my OpenPGP
+keys. Email is also not secure or private, but
 OpenPGP will give *pretty good privacy* for the content of an email
 message. I prefer to communicate over encrypted channels whenever possible.
 
@@ -26,23 +24,23 @@ installed.
 
 ### OpenPGP
 
+I use two OpenPGP keys, one is based on `RSA` and the other on
+`Ed25519`. I strongly prefer to use the `Ed25519` key, but I
+maintain the second `RSA` key for communicating with people using older software which cannot use `Ed25519` keys.
 
-I use two OpenPGP keys, one is based on ```RSA``` and the other on
-```Ed25519```. I strongly prefer to use the ```Ed25519``` key, but I
-maintain the second ```RSA``` key for communicating with people using
-older software which cannot use ```Ed25519``` keys.
+If you don't know which to use, use whichever one your software will work with first... or the `RSA` key which is based on older math and is more compatible with obscure OpenPGP software. Programs like [GnuPG](https://gnupg.org) will work with both key types.
 
 Below are the fingerprints for both keys.
 
 #### Ed25519
 
-```1F32 5206 DE34 CFCF 0022 D045 48A7 3B8C 8920 7930```
+`1F32 5206 DE34 CFCF 0022 D045 48A7 3B8C 8920 7930`
 
 #### RSA4096
 
-```167E 19AC B8E5 38F3 2FD2 2766 81C9 678A 0987 8230```
+`167E 19AC B8E5 38F3 2FD2 2766 81C9 678A 0987 8230`
 
-I will reply using whichever key you sent me the messsage with.
+I will reply using whichever key you sent me the message with.
 
 Both keys are available on this repository, and also on other
-platforms like Keybase and some Web Key Directory (WKD) servers.
+platforms like [Keybase](https://keybase.io/neuronmaker) and some Web Key Directory (WKD) servers.
